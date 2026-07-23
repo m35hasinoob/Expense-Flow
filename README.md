@@ -2,151 +2,122 @@
 
 <div align="center">
 
-<img src="assets/images/app_icon.png" alt="Expense Flow Logo" width="120"/>
+<img src="assets/images/app_icon.png" width="120"/>
 
-### A Modern Flutter Expense Tracker
+### Modern Personal Expense Tracker built with Flutter
 
-Track your daily expenses, manage your budget, and gain valuable insights into your spending habits with a clean and intuitive user experience.
+Track your daily expenses, manage budgets, visualize spending habits and stay in control of your finances.
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-3.38-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![Riverpod](https://img.shields.io/badge/State-Riverpod-orange)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 </div>
 
 ---
 
-## ✨ Features
+# 📱 Screenshots
 
-* 📊 Interactive dashboard with financial overview
-* 💰 Add, edit, and delete daily expenses
-* 🏷️ Categorize expenses for better organization
-* 📅 Daily, weekly, and monthly expense tracking
-* 📈 Visual reports with charts and analytics
-* 🎯 Budget management
-* 🌙 Light & Dark theme support
-* 📂 Import and Export expense data
-* 📱 Responsive Material Design interface
-* 💾 Local offline storage using SQLite
+| Dashboard | Add Expense |
+|------------|------------|
+| ![](assets/screenshots/dashboard.png) | ![](assets/screenshots/add_expense.png) |
 
----
+| Reports | History |
+|------------|------------|
+| ![](assets/screenshots/reports.png) | ![](assets/screenshots/history.png) |
 
-## 📸 Screenshots
-
-> Screenshots will be added soon.
-
-| Dashboard   | Reports     | History     | Settings    |
-| ----------- | ----------- | ----------- | ----------- |
-| Coming Soon | Coming Soon | Coming Soon | Coming Soon |
+| Budget | Settings |
+|------------|------------|
+| ![](assets/screenshots/budget.png) | ![](assets/screenshots/settings.png) |
 
 ---
 
-## 🛠 Tech Stack
+# ✨ Features
 
-| Technology         | Usage                    |
-| ------------------ | ------------------------ |
-| Flutter            | Cross-platform Framework |
-| Dart               | Programming Language     |
-| Riverpod           | State Management         |
-| SQLite             | Local Database           |
-| FL Chart           | Analytics & Charts       |
-| Excel              | Import / Export          |
-| Shared Preferences | Local Settings           |
-| Google Fonts       | Typography               |
+- 📊 Beautiful Dashboard
+- 💵 Income & Expense Management
+- 📅 Daily, Weekly & Monthly Reports
+- 📈 Interactive Charts
+- 🎯 Budget Management
+- 🌙 Dark & Light Theme
+- 📂 Excel Import
+- 📤 Excel Export
+- 💾 Offline Local Storage
+- ⚡ Smooth Animations
+- 📱 Responsive UI
 
 ---
 
-## 📂 Project Structure
+# 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Flutter | UI Framework |
+| Dart | Programming Language |
+| Riverpod | State Management |
+| SQLite | Local Database |
+| FL Chart | Analytics |
+| Shared Preferences | App Settings |
+| Excel | Import & Export |
+
+---
+
+# 📂 Project Structure
 
 ```text
 lib/
-│
-├── app/
-├── core/
-├── features/
-│   ├── budget/
-│   ├── dashboard/
-│   ├── expense/
-│   ├── history/
-│   ├── reports/
-│   └── settings/
-│
-├── shared/
-└── main.dart
+ ├── app/
+ ├── core/
+ ├── features/
+ ├── shared/
+ └── main.dart
 ```
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
+# 🚀 Getting Started
 
 ```bash
 git clone https://github.com/m35hasinoob/Expense-Flow.git
-```
 
-### Navigate to Project
-
-```bash
 cd Expense-Flow
-```
 
-### Install Dependencies
-
-```bash
 flutter pub get
-```
 
-### Run the App
-
-```bash
 flutter run
 ```
 
 ---
 
-## 📦 Packages Used
+# 📦 Main Packages
 
-* flutter_riverpod
-* sqflite
-* shared_preferences
-* fl_chart
-* excel
-* share_plus
-* file_picker
-* google_fonts
-* flutter_animate
-
----
-
-## 🎯 Roadmap
-
-* [x] Expense Management
-* [x] Budget Management
-* [x] Reports & Analytics
-* [x] Import / Export
-* [x] Theme Support
-* [ ] Cloud Backup
-* [ ] Authentication
-* [ ] Multi-device Sync
-* [ ] Currency Selection
-* [ ] Recurring Transactions
+- flutter_riverpod
+- sqflite
+- fl_chart
+- excel
+- shared_preferences
+- file_picker
+- share_plus
+- flutter_animate
+- google_fonts
 
 ---
 
-## 🤝 Contributing
+# 🎯 Future Improvements
 
-Contributions, suggestions, and improvements are welcome.
-
-If you'd like to contribute:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
+- Cloud Backup
+- Google Sign In
+- Multi-device Sync
+- Notification Reminder
+- Multiple Currency Support
+- Recurring Transactions
 
 ---
+
+
 
 ## 👨‍💻 Author
 
@@ -157,18 +128,14 @@ If you'd like to contribute:
 * Facebook: https://www.facebook.com/mdmuhaiminulislam.hasin
 
 
+---
 
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-## 📄 License
+# 📄 License
 
-This project is licensed under the **MIT License**.
-
----
-
-<div align="center">
-
-⭐ If you like this project, consider giving it a star on GitHub.
-
-</div>
+This project is licensed under the MIT License.

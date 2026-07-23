@@ -8,13 +8,12 @@
 
 Track your daily expenses, manage budgets, visualize spending habits and stay in control of your finances.
 
-![Flutter](https://img.shields.io/badge/Flutter-3.38-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-success)
-![SQLite](https://img.shields.io/badge/Database-SQLite-green)
-![Riverpod](https://img.shields.io/badge/State-Riverpod-orange)
-![License](https://img.shields.io/badge/License-MIT-red)
-
+![Flutter](https://img.shields.io/badge/Flutter-3.38-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-State%20Management-5C6BC0?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-34A853?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 </div>
 
 ---
@@ -31,9 +30,9 @@ Track your daily expenses, manage budgets, visualize spending habits and stay in
 
 | Budget | Settings |
 |------------|------------|
-| ![](assets/screenshots/cash_in.jpg) | ![](assets/screenshots/settings_page.jpg) |
+| ![](assets/screenshots/cash_in.jpg) | ![](assets/screenshots/setting_page.jpg) |
 
-| Edit | Delete |
+| Edit Expense | Delete Expense |
 |------------|------------|
 | ![](assets/screenshots/edit_expense.jpg) | ![](assets/screenshots/delete_expense.jpg) |
 
@@ -46,7 +45,7 @@ Track your daily expenses, manage budgets, visualize spending habits and stay in
 
 #  Features
 
--  Beautiful Dashboard
+-  Clean Dashboard
 -  Income & Expense Management
 -  Daily, Weekly & Monthly Reports
 -  Interactive Charts
@@ -78,14 +77,30 @@ Track your daily expenses, manage budgets, visualize spending habits and stay in
 
 ```text
 lib/
- ├── app/
- ├── core/
- ├── features/
- ├── shared/
- └── main.dart
+│
+├── app/
+│   ├── routes/
+│   └── theme/
+│
+├── core/
+│   ├── constants/
+│   ├── database/
+│   └── utils/
+│
+├── features/
+│   ├── budget/
+│   ├── dashboard/
+│   ├── expense/
+│   ├── history/
+│   ├── reports/
+│   └── settings/
+│
+├── shared/
+│   ├── models/
+│   └── widgets/
+│
+└── main.dart
 ```
-
----
 
 #  Getting Started
 
@@ -99,7 +114,6 @@ flutter pub get
 flutter run
 ```
 
----
 
 #  Main Packages
 
@@ -130,7 +144,6 @@ flutter run
 
 ##  Author
 
-## 👨‍💻 Author
 
 <div align="center">
 

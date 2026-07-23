@@ -150,9 +150,14 @@ If you'd like to contribute:
 
 ## 👨‍💻 Author
 
-**Hasin**
+**Muhaiminul Islam Hasin**
 
 * GitHub: https://github.com/m35hasinoob
+* LinkedIn: https://www.linkedin.com/in/m67hasinoob/
+* Facebook: https://www.facebook.com/mdmuhaiminulislam.hasin
+
+
+
 
 ---
 

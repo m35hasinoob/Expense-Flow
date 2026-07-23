@@ -19,39 +19,48 @@ Track your daily expenses, manage budgets, visualize spending habits and stay in
 
 ---
 
-# 📱 Screenshots
+# 📸 Screenshots
 
 | Dashboard | Add Expense |
 |------------|------------|
-| ![](assets/screenshots/dashboard.png) | ![](assets/screenshots/add_expense.png) |
+| ![](assets/screenshots/dashboard.jpg) | ![](assets/screenshots/add_expense.jpg) |
 
 | Reports | History |
 |------------|------------|
-| ![](assets/screenshots/reports.png) | ![](assets/screenshots/history.png) |
+| ![](assets/screenshots/report_analytics.jpg) | ![](assets/screenshots/history.jpg) |
 
 | Budget | Settings |
 |------------|------------|
-| ![](assets/screenshots/budget.png) | ![](assets/screenshots/settings.png) |
+| ![](assets/screenshots/cash_in.jpg) | ![](assets/screenshots/settings_page.jpg) |
+
+| Edit | Delete |
+|------------|------------|
+| ![](assets/screenshots/edit_expense.jpg) | ![](assets/screenshots/delete_expense.jpg) |
+
+| About | Dark Mode |
+|------------|------------|
+| ![](assets/screenshots/about.jpg) | ![](assets/screenshots/dark_mode.jpg) |
+
 
 ---
 
-# ✨ Features
+#  Features
 
-- 📊 Beautiful Dashboard
-- 💵 Income & Expense Management
-- 📅 Daily, Weekly & Monthly Reports
-- 📈 Interactive Charts
-- 🎯 Budget Management
-- 🌙 Dark & Light Theme
-- 📂 Excel Import
-- 📤 Excel Export
-- 💾 Offline Local Storage
-- ⚡ Smooth Animations
-- 📱 Responsive UI
+-  Beautiful Dashboard
+-  Income & Expense Management
+-  Daily, Weekly & Monthly Reports
+-  Interactive Charts
+-  Budget Management
+-  Dark & Light Theme
+-  Excel Import
+-  Excel Export
+-  Offline Local Storage
+-  Smooth Animations
+-  Responsive UI
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Usage |
 |------------|-------|
@@ -78,7 +87,7 @@ lib/
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ```bash
 git clone https://github.com/m35hasinoob/Expense-Flow.git
@@ -92,7 +101,7 @@ flutter run
 
 ---
 
-# 📦 Main Packages
+#  Main Packages
 
 - flutter_riverpod
 - sqflite
@@ -106,7 +115,7 @@ flutter run
 
 ---
 
-# 🎯 Future Improvements
+#  Future Improvements
 
 - Cloud Backup
 - Google Sign In
@@ -119,23 +128,33 @@ flutter run
 
 
 
+##  Author
+
 ## 👨‍💻 Author
 
-**Muhaiminul Islam Hasin**
+<div align="center">
 
-* GitHub: https://github.com/m35hasinoob
-* LinkedIn: https://www.linkedin.com/in/m67hasinoob/
-* Facebook: https://www.facebook.com/mdmuhaiminulislam.hasin
+<img src="assets/images/profile.PNG" alt="Muhaiminul Islam Hasin" width="160" style="border-radius:50%;">
+
+### Muhaiminul Islam Hasin
+
+Flutter Developer • CSE Student • Mobile App Development Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-m35hasinoob-181717?style=for-the-badge&logo=github)](https://github.com/m35hasinoob)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhaiminul%20Islam%20Hasin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m67hasinoob/)
+[![Facebook](https://img.shields.io/badge/Facebook-Muhaiminul%20Islam%20Hasin-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/mdmuhaiminulislam.hasin)
+
+</div>
 
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the MIT License.

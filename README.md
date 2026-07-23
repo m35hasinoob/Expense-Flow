@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/github/banner.png" alt="Expense Flow Banner">
+  <img src="assets/images/Banner.png" alt="Expense Flow Banner">
 </p>
 
 ### Modern Personal Expense Tracker built with Flutter
